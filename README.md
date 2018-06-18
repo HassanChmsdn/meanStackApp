@@ -1,0 +1,2 @@
+# meanStackApp
+angularJS,MongoDB
